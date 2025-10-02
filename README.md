@@ -1,16 +1,20 @@
-## Hi there 👋
+# Technical Skills
 
-<!--
-**randomoi/randomoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Programming Languages:** Python, C#, C++, JavaScript  
+- **Frameworks:** React Native, Django, Flask  
+- **Game Engines:** Unity, Unreal Engine  
+- **Computer Vision:** TensorFlow, PyTorch, Keras, scikit-learn, OpenCV, COCO, YOLO  
+- **Speech Recognition:** Google Speech-to-Text, Whisper, Vosk, Torchaudio  
+- **API Integration:** Google APIs, REST APIs, OAuth2, WebSocket APIs  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Design Skills
+
+- **Tools:** Figma, Adobe Photoshop, Adobe Illustrator  
+
+---
+
+# Education
+
+- **Bachelor of Computer Science** (GPA: 4.0)  
