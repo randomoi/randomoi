@@ -1,20 +1,21 @@
 # Technical Skills
 
-- **Programming Languages:** Python, C#, C++, JavaScript  
-- **Frameworks:** React Native, Django, Flask  
-- **Game Engines:** Unity, Unreal Engine  
-- **Computer Vision:** TensorFlow, PyTorch, Keras, scikit-learn, OpenCV, COCO, YOLO  
-- **Speech Recognition:** Google Speech-to-Text, Whisper, Vosk, Torchaudio  
-- **API Integration:** Google APIs, REST APIs, OAuth2, WebSocket APIs  
+- **Programming Languages:** Python, JavaScript, C#, C++
+- **Artificial Intelligence:** Generative AI, Machine Learning, Deep Learning, LLMs, Natural Language Processing, RAG, AI Agents, Computer Vision, Speech Processing
+- **AI Engineering:** Model Development, Prompt Engineering, Embeddings, Vector Search, Workflow Automation, Applied AI Systems
+- **Software Development:** Full-Stack Development, Backend Development, Mobile Development, Game Development
+- **AI Tools & Frameworks:** TensorFlow, PyTorch, Keras, scikit-learn, OpenCV, Whisper, Hugging Face, LangChain
 
 ---
 
-# Design Skills
+# Creative Technology Tools
 
-- **Tools:** Figma, Adobe Photoshop, Adobe Illustrator  
+- **Game Engines:** Unity, Unreal Engine
+- **Design Tools:** Figma, Adobe Photoshop, Adobe Illustrator
 
 ---
 
 # Education
 
-- **Bachelor of Computer Science** (GPA: 4.0)  
+- **Bachelor of Science in Computer Science** 
+- **Master of Science in Digital Arts and Creative Technologies**
